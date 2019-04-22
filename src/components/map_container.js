@@ -49,7 +49,7 @@ render(){
         height: '60vh',
         
     }
-
+/*check if working*/
 
 return(
    <div ref="map" style={style}>
